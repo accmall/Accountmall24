@@ -1,20 +1,29 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "배그계정 옵치계정 스팀게임계정 전문 어카운트몰"
+subtitle: 배그계정,옵치계정,스팀게임계정,고스팩,각종미배치,배그핵,서든핵,옵치핵,배그 핵,서든 핵,옵치 핵,배그 ESP,게임핵
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: 배그/옵치/스팀게임 각종 게임계정 판매 사이트 24시간 운영 365일 연중무휴 게임계정 최저가
+    text: "게임계정 전문 어카운트몰<br>
+    각종 게임 계정 모두<br>
+최저가로 판매중입니다.<br>
+24시간 운영하며 다른샵과 차원이 다른<br>
+서비스로 모십니다.<br>
+<br>
+저희 어카운트몰은 엄선된 제품들만 판매합니다<br>
+다른샵과 차별화된 계정들 다수 보유중<br>
+<br>
+구매하는 방법<br>
+1. 구매사이트 바로가기 버튼을 누른 후 구매사이트에 접속해주세요<br>
+2. 휴대폰 본인인증을 마친 후 회원가입을 하고 로그인을 해주세요<br>
+3. 원하시는 게임계정 제품소개를 보신 다음 구매하실 계정 가격만큼 충전하셔서 구매하시면 됩니다<br>"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "24시간 연중무휴 상담 서비스"
+    text: "24시간 365일 자동화된 시스템 으로 계정 구매 및 바로 사용 / 구매 상담을 하실 수 있습니다."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "배그계정 / 옵치계정 / 스팀계정 / 러스트계정 / 타르코프계정 / 오버워치계정 / 배틀그라운드계정 / 명의없는게임계정 / 배그핵 / 배그 핵 / 옵치핵 /옵치 핵 / 배그 디스코드 / 배그핵 디스코드 / 배틀그라운드 핵 /배틀그라운드핵 /오버워치핵 /오버워치 핵 / 배그 ESP / 오버워치 월핵 / 배그계정 전문 너지몰 / 배그핵 너지몰 / 서든핵 너지몰 / 서든어택 핵 너지몰 / 배틀그라운드 핵 너지몰 / 배틀그라운드 슬롯제 / 배그 슬롯제 / PUBG AIMBOT / 배그 에임봇 / 서든 오토에임 / 서든 월핵 / 배그 핵 사이트 / 배그 핵 구매 사이트 / 배그 핵 판매사이트 / 배틀그라운드 핵 구매 / 배그 핵 판매 / 배틀그라운드 계정샵 / 옵치 계정샵 / 핵판매샵 / 모든핵판매사이트 / 각종계정판매샵 / 배그 핵 구매 디스코드 / 배그 계정 구매 사이트 / 배그 계정 / 배그핵 사이트 / 배그 esp"
+      text: "배그계정 / 옵치계정 / 스팀계정 / 러스트계정 / 타르코프계정 / 오버워치계정 / 배틀그라운드계정 / 명의없는게임계정 / 배그핵 / 배그 핵 / 옵치핵 /옵치 핵 / 배그 디스코드 / 배그핵 디스코드 / 배틀그라운드 핵 /배틀그라운드핵 /오버워치핵 /오버워치 핵 / 배그 ESP / 오버워치 월핵 / 배그계정 전문 너지몰 / 배그핵 너지몰 / 서든핵 너지몰 / 서든어택 핵 너지몰 / 배틀그라운드 핵 너지몰 / 배틀그라운드 슬롯제 / 배그 슬롯제 / PUBG AIMBOT / 배그 에임봇 / 서든 오토에임 / 서든 월핵 / 배그 핵 사이트 / 배그 핵 구매 사이트 / 배그 핵 판매사이트 / 배틀그라운드 핵 구매 / 배그 핵 판매 / 배틀그라운드 계정샵 / 옵치 계정샵 / 핵판매샵 / 모든핵판매사이트 / 각종계정판매샵 / 배그 핵 구매 디스코드 / 배그 계정 구매 사이트 / 배그 계정 / 배그핵 사이트 / 배그 esp"
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: 배그계정 옵치계정 스팀게임계정 전문 어카운트몰
 ---
 
